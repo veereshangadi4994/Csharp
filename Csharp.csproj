@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Csharp.PascalTriangle</StartupObject>
+    <StartupObject>Csharp.StringB</StartupObject>
   </PropertyGroup>
 
 </Project>
